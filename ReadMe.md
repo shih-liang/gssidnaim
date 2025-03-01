@@ -1,4 +1,4 @@
-# Code for "Global spatiotemporal structure and its deviations of neural activities in mice: a resting-state waves perspective"
+# Code for "Global spatiotemporal synchronizing structures of spontaneous neural activities in different cell types"
 
 ## Dependencies
  * Python.
